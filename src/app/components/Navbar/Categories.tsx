@@ -19,6 +19,7 @@ import { MdOutlineVilla } from "react-icons/md";
 
 import CategoryBox from "../CategoryBox";
 import Container from "../Container";
+import { useEffect } from "react";
 
 export const categories = [
   {
